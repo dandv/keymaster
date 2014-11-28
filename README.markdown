@@ -1,9 +1,14 @@
 # keymaster.js
 
-Keymaster is a simple micro-library for defining and
-dispatching keyboard shortcuts in web applications.
+Keymaster is a simple micro-library for defining and dispatching keyboard
+shortcuts in web applications. It has no dependencies.
 
-It has no dependencies.
+Unfortunately its author has [refused](https://github.com/madrobby/keymaster/pull/140#issuecomment-64895499)
+to accept a PR to provide Meteor packaging, hence the existence of this repo.
+
+Original README below.
+-----
+
 
 *It’s a work in progress (e.g. beta), so spare me your nerdrage and instead
 contribute! Patches are welcome, but they are not guaranteed to make
