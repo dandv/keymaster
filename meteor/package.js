@@ -7,9 +7,9 @@ var packageJson = JSON.parse(Npm.require("fs").readFileSync('package.json'));
 
 Package.describe({
   name: packageName,
-  summary: 'Keymaster (official): defining and dispatching keyboard shortcuts, with scopes and filtering',
-  version: packageJson.version,
-  git: 'https://github.com/madrobby/keymaster.git'
+  summary: 'Keymaster (community): defining and dispatching keyboard shortcuts, with scopes and filtering',
+  version: packageJson.version + '_1',
+  git: 'https://github.com/dandv/keymaster.git'
 });
 
 Package.onUse(function (api) {

@@ -5,6 +5,8 @@ shortcuts in web applications. It has no dependencies.
 
 Unfortunately its author has [refused](https://github.com/madrobby/keymaster/pull/140#issuecomment-64895499)
 to accept a PR to provide Meteor packaging, hence the existence of this repo.
+It aims to track change in the original as new versions are released.
+If you find it out of date, please file an issue.
 
 Original README below.
 -----
